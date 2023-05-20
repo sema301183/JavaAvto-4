@@ -31,4 +31,3 @@ public class CardDeliveryTest {
                         Duration.ofSeconds(15));
     }
 }
-
